@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Buladaco_week05_work004\bin\Debug\Buladaco_week05_work004.exe.config
+C:\Users\Administrator\source\repos\Buladaco_week05_work004\bin\Debug\Buladaco_week05_work004.exe
+C:\Users\Administrator\source\repos\Buladaco_week05_work004\bin\Debug\Buladaco_week05_work004.pdb
+C:\Users\Administrator\source\repos\Buladaco_week05_work004\obj\Debug\Buladaco_week05_work004.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Buladaco_week05_work004\obj\Debug\Buladaco_week05_work004.Form1.resources
+C:\Users\Administrator\source\repos\Buladaco_week05_work004\obj\Debug\Buladaco_week05_work004.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Buladaco_week05_work004\obj\Debug\Buladaco_week05_work004.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Buladaco_week05_work004\obj\Debug\Buladaco_week05_work004.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Buladaco_week05_work004\obj\Debug\Buladaco_week05_work004.exe
+C:\Users\Administrator\source\repos\Buladaco_week05_work004\obj\Debug\Buladaco_week05_work004.pdb
+C:\Users\Administrator\source\repos\Buladaco_week05_work004\obj\Debug\Buladaco_week05_work004.List.resources
